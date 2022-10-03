@@ -1,0 +1,3 @@
+# exo_7c
+user_name = gets.chomp
+puts user_name

@@ -1,0 +1,5 @@
+# exo_8
+puts "quel est votre prénom?"
+print ">"
+name = gets.chomp
+puts "bonjour, #{name}"

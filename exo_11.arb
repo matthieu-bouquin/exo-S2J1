@@ -1,0 +1,7 @@
+# exo_11
+puts "dis un nombre de bonjour"
+number = gets.chomp.to_i
+numbertest = number
+numbertest.times do |i|
+    puts "salut, ça fart?! #{i + 1}"
+end

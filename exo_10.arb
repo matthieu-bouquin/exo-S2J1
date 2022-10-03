@@ -1,0 +1,6 @@
+# exo_10
+puts "en quelle année es tu né?"
+print ">"
+birthdate = gets.to_i
+year = 2017
+puts "en 2017 tu avais: #{year - birthdate} ans"
